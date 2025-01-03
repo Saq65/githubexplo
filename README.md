@@ -7,6 +7,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+![detailsScreen](https://github.com/user-attachments/assets/64a54f17-7f99-4728-a75f-a301e8cdb19a)
+![listofuser](https://github.com/user-attachments/assets/225c6774-a553-493e-b2a4-c39f8d65e406)
+![searchscreen](https://github.com/user-attachments/assets/1e8a5d0a-1931-4d1a-a7d7-fbf2aeef6d91)
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
