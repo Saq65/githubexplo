@@ -19,7 +19,6 @@
     "react-native": "0.76.5",
     "react-native-gesture-handler": "^2.21.2",
     "react-native-paper": "^5.12.5",
-    "react-native-reanimated": "^3.16.6",
     "react-native-responsive-dimensions": "^3.1.1",
     "react-native-safe-area-context": "^5.0.0",
     "react-native-screens": "^4.4.0",
